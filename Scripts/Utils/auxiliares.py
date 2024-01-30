@@ -161,7 +161,7 @@ def obtener_historico(user, date):
     es_mano_derecha = ExtraerDatos.mano_derecha(df_serie)
     
     df_historico = df_historico[df_historico[Const.HIST_DATE] <= date]
-    
+    df_historico = df_historico.reset_index(drop=True)    
     for i in reversed(range(len(df_historico))):
         df = ExtraerDatos.dividir_en_repeticiones(Leer_ficheros.leercsv_serie(df_historico.at[i, Const.HIST_DATE], user))
         mano = ExtraerDatos.mano_derecha(df)

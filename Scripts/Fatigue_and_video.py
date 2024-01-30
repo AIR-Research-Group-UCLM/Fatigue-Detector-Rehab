@@ -1,6 +1,6 @@
 import Fatigue_analysis as Fatigue_analysis
 import Video.Fatigue_report_video as Fatigue_report_video
-import Video.edit_video as edit_video
+import Video.compose_video as compose_video
 import argparse
 
 def obtener_argumentos_entrada():
@@ -19,7 +19,7 @@ def main():
     user, date, read_oculus, directory, ruta_webcam, ruta_oculus, ruta_salida = obtener_argumentos_entrada()
     json_output = Fatigue_analysis.main(user, date, read_oculus, directory)
     fatigue_video = Fatigue_report_video.main(json_output)
-    edit_video.edit_video(ruta_webcam, ruta_oculus, ruta_salida, fatigue_video)
+    compose_video.edit_video(ruta_webcam, ruta_oculus, ruta_salida, fatigue_video)
 
 if __name__ == "__main__":
     main()

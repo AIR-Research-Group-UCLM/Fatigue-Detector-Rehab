@@ -11,7 +11,7 @@ Steps to run program:
 python3 -m pip install -r requirements.txt
 ```
 
-4.  Set up the folder with the data from RI. In this example, the folder is RI_Data.
+4.  Set up the folder with the data from RI. In this example, the folder is Input.
 5.  Locate the execution date and the user you want to analyse.
 6.  Run the main program. The arguments of the program are (You can check running "python3 Fatigue_analysis.py --h"):
     -   (Required) user : The user you want to analyse
@@ -19,10 +19,10 @@ python3 -m pip install -r requirements.txt
     -   (Optional) read_oculus : 0 if your data is on the device 1 if your data is on the Oculus Quest Storage
     -   (Optional) directory : Define the directory with the RI Data
 
-Example of an execution with user: default ; date: 20231226_204637 ; read_oculus : 0 ; directory : RI_Data
+Example of an execution with user: default ; date: 20231226_204637 ; read_oculus : 0 ; directory : Input
 
 ```
-python3 .\Scripts\Fatigue_analysis.py --user default --date 20231226_204637 --read_oculus 0 --directory "RI_Data"
+python3 .\Scripts\Fatigue_analysis.py --user 1 --date 20231226_204637 --read_oculus 0 --directory "Experimental Data/Input"
 ```
 
 This will generate a new folder Output_fatigue with the results for the analysis.
