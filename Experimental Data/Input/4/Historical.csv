@@ -1,0 +1,10 @@
+﻿USER;GAME;DATE;LEVEL;TIME;GENERATED_BLOCKS;SCORE_BLOCKS;ERROR_BLOCKS;HAND_RIGHT;AUTOGRIP;TRACKING_FILE;HMD_POSITION_X;HMD_POSITION_Y;HMD_POSITION_Z;HMD_ROTATION_X;HMD_ROTATION_Y;HMD_ROTATION_Z;LEVELCOMPLETED
+4;BoxAndBlock;20240116_183439;1;60;63;64;0;True;False;/storage/emulated/0/Android/data/com.RehabImmersive.BoxAndBlock/BoxAndBlock/raul/TrackingData/OculusTracking_20240116_183439.csv;-0,029;1,0079;0,0289;9,9404;1,5736;359,7625;True
+;;;;;;;;;;;;;;;;;
+4;BoxAndBlock;20240116_183706;1;60;66;57;0;True;False;/storage/emulated/0/Android/data/com.RehabImmersive.BoxAndBlock/BoxAndBlock/raul/TrackingData/OculusTracking_20240116_183706.csv;0,0172;0,9939;-0,0457;15,8486;1,6409;357,8376;True
+;;;;;;;;;;;;;;;;;
+4;BoxAndBlock;20240116_184012;1;60;72;62;0;True;False;/storage/emulated/0/Android/data/com.RehabImmersive.BoxAndBlock/BoxAndBlock/raul/TrackingData/OculusTracking_20240116_183823.csv;0,0574;0,9687;0,0016;20,3337;4,1754;1,5572;True
+;;;;;;;;;;;;;;;;;
+4;BoxAndBlock;20240116_184334;1;60;57;57;0;True;False;/storage/emulated/0/Android/data/com.RehabImmersive.BoxAndBlock/BoxAndBlock/raul/TrackingData/OculusTracking_20240116_184018.csv;0,0201;1,0097;0,0031;5,5741;5,34;357,8407;True
+;;;;;;;;;;;;;;;;;
+4;BoxAndBlock;20240116_184612;1;60;60;59;0;True;False;/storage/emulated/0/Android/data/com.RehabImmersive.BoxAndBlock/BoxAndBlock/raul/TrackingData/OculusTracking_20240116_184136.csv;0,0256;0,9943;-0,0242;8,1082;10,4532;357,5934;True
