@@ -1,0 +1,54 @@
+{
+  "title": "Fatigue-Detector-Rehab: an adaptive fatigue detection model for virtual reality-based physical therapy",
+  "description": "Machine learning model that estimates the level of fatigue (low, moderate, high and very high) during the Box and Block exercise in the Rehab-Immersive system, together with utilities for exercise data analysis and report generation. This work was supported by the Spanish Ministry of Science, Innovation and Universities / Agencia Estatal de Investigación under grant PID2020-117361RB-C21 (project REHAB-IMMERSIVE), and carried out by the AIR Research Group of the Universidad de Castilla-La Mancha in collaboration with the Hospital Nacional de Parapléjicos (Toledo, Spain).",
+  "creators": [
+    {
+      "name": "Martinez-Cid, Sergio",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0009-0009-8976-4974"
+    },
+    {
+      "name": "Essalhi, Mohamed",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0009-0004-0039-8255"
+    },
+    {
+      "name": "Herrera, Vanesa",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0000-0002-6187-4794"
+    },
+    {
+      "name": "Albusac, Javier",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0000-0003-1889-3065"
+    },
+    {
+      "name": "Schez-Sobrino, Santiago",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0000-0001-6620-1719"
+    },
+    {
+      "name": "Vallejo, David",
+      "affiliation": "Universidad de Castilla-La Mancha, Ciudad Real, Spain",
+      "orcid": "0000-0002-6001-7192"
+    }
+  ],
+  "upload_type": "software",
+  "license": "mit",
+  "keywords": [
+    "fatigue detection",
+    "machine learning",
+    "virtual reality",
+    "physical therapy",
+    "Box and Block Test"
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.3390/info16020148",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ]
+}
